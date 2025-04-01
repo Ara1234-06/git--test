@@ -1,3 +1,3 @@
-# Git test
+# Git Test
 
-Questo è il mio progetto di prova su git
+Questo è il mio primo progetto di prova su git
